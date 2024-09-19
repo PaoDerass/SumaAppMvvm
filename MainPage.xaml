@@ -5,7 +5,7 @@
              Title="SumaAppMvvm">
 
     <ContentPage.BindingContext>
-        <vm:SumaVM />
+        <vm:SumaViewModel />
     </ContentPage.BindingContext>
 
     <StackLayout Padding="20" VerticalOptions="Center">
